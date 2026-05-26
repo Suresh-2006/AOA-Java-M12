@@ -44,8 +44,8 @@ Your goal is to maximize total profit while completing the maximum number of job
 ## Program:
 ```
 /*
-Developed by: DHINESH R
-Register Number:  212223220019
+Developed by: SURESH S
+Register Number:  212223040215
 */
 import java.util.*;
 
